@@ -1,33 +1,19 @@
-Huslter till the end
+<h3 align="center">A developer from Bulgaria , A hustler from the bottom of hearth</h3>
 
-** Junior Java Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baldzhiyski&label=Profile%20views&color=0e75b6&style=flat" alt="baldzhiyski" /> </p>
 
-### Contact with me : 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baldzhiyski" alt="baldzhiyski" /></a> </p>
 
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/baldzhiyski__#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/baldzhiyski__#gh-dark-mode-only)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/baldzhiyski__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baldzhiyski__" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-### Language and Tools:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baldzhiyski&show_icons=true&locale=en&layout=compact" alt="baldzhiyski" /></p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/InteliJ/InteliJ-original.svg" style="padding-right:10px;" />
-<br />
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baldzhiyski&show_icons=true&locale=en" alt="baldzhiyski" /></p>
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baldzhiyski&" alt="baldzhiyski" /></p>

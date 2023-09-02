@@ -2,7 +2,8 @@ Huslter till the end
 
 ** Junior Java Developer
 
-Contacts : 
+Contact with me : 
+&nbsp;&nbsp
 [![website](./img/instagram-light.svg)](https://instagram.com/baldzhiyski__#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/baldzhiyski__#gh-dark-mode-only)
 

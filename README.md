@@ -2,7 +2,9 @@ Huslter till the end
 
 ** Junior Java Developer
 
-**baldzhiyski/baldzhiyski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contacts : 
+[![website](./img/instagram-light.svg)](https://instagram.com/baldzhiyski__#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/baldzhiyski__#gh-dark-mode-only)
 
 Here are some ideas to get you started:
 

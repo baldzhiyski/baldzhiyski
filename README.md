@@ -1,4 +1,4 @@
-<h3 align="center">A developer from Bulgaria , A hustler from the bottom of hearth</h3>
+<h3 align="center">A developer from Bulgaria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baldzhiyski&label=Profile%20views&color=0e75b6&style=flat" alt="baldzhiyski" /> </p>
 

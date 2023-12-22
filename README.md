@@ -9,7 +9,8 @@
   <h2 align="center">GitHub Stats 📊</h2>
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=baldzhiyski&hide=stars&show_icons=true&theme=dracula&line_height=20">
+    <img src="https://github-readme-stats.vercel.app/api?username=baldzhiyski&hide=stars&show_icons=true&theme=dracula&line_height=20"
+      style= "height: 160px;">
    <!-- GitHub Readme Streak Stats -->
     <img src="http://github-readme-streak-stats.herokuapp.com?user=baldzhiyski&theme=dark&background=0D1117&ring=28CAE7&fire=28CAE7&border=666666&sideNums=28CAE7&currStreakLabel=28CAE7" 
 alt="GitHub Readme Streak Stats" align="right" style="height: 160px;">

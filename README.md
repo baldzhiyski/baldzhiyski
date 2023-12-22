@@ -1,10 +1,14 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=baldzhiyski&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </div>
-
 <!-- Set margin-top to adjust the position -->
 <div style="margin-top: -20px;">
-  <h1 align="center">A Junior Developer from Bulgaria</h1>
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=A+Developer+from+Bulgaria;+Chase+it+till+the+end!;" />
+    </a>
+  </h1>
+</div>
 
   <h2 align="center">GitHub Stats 📊</h2>
 
@@ -36,32 +40,45 @@ alt="GitHub Readme Streak Stats" align="right" style="height: 160px;">
 
   <h2 align="center">Student Journey 🎓</h2>
 
-  - <div>
-     <img width="160" height="140" align='left' src="https://github.com/baldzhiyski/baldzhiyski/assets/143875511/017540a4-57c3-4b4e-a2ac-c6065898a68f" >
-      
-      Hey, I'm Hristo Baldzhiyski, currently navigating the exciting world of Software Engineering as a student at the University of Stuttgart and SoftUni. I'm on a mission to craft my path in the dynamic realm of technology.
+<div align="center">
+  <img width="160" height="160" align="left" src="https://github.com/baldzhiyski/baldzhiyski/assets/143875511/017540a4-57c3-4b4e-a2ac-c6065898a68f" alt="Profile Photo">
+</div>
+<div align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
+</div>
 
-      📚 **Academic Pursuits:**
-      
-      I'm diving deep into the intricacies of Software Engineering. It's not just about coding; it's about building a foundation for a future where technology meets innovation.
+## Hey, I'm Hristo Baldzhiyski! 👋
 
-      💻 **The Journey:**
-      
-      Every line of code I write, every problem I solve, is a step towards realizing my dreams in the tech industry. The journey may be challenging, but it's the challenges that make it worthwhile.
+I'm a passionate Software Engineering student at the University of Stuttgart and SoftUni, navigating the exciting realms of technology. 🌐
 
-      🚀 **Aspiring Developer:**
-      
-      Visualizing my future as a developer, I'm committed to honing my skills, exploring new technologies, and embracing the endless possibilities the tech world offers.
+### Academic Pursuits 📚
 
-  <hr>
+Diving deep into the intricacies of Software Engineering, I'm not just coding; I'm building a foundation for a future where technology meets innovation.
 
-  <h2 align="center">Coding Dreams 💻✨</h2>
+### The Journey 💻
 
-  🌟 **Dream Big:**
-      
-  Studying, coding, and dreaming big! I believe in the power of determination and continuous learning. Together, let's make an impact in the tech world!
+Every line of code I write, every problem I solve, is a step towards realizing my dreams in the tech industry. The journey may be challenging, but it's the challenges that make it worthwhile.
 
-  <hr>
+### Aspiring Developer 🚀
+
+Visualizing my future as a developer, I'm committed to honing my skills, exploring new technologies, and embracing the endless possibilities the tech world offers. I will never step out till I reach what I believe I can achieve ! 
+
+And remember , keep movin forward !
+
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
   <h2 align="center">Connect with Me 🌐</h2>
 

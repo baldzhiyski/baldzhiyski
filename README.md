@@ -11,7 +11,7 @@
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=baldzhiyski&hide=stars&show_icons=true&theme=dracula&line_height=20">
     <a target="_blank">
-      <img align="right" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+      <img align="right" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
     </a>
   </p>
 
@@ -24,8 +24,8 @@
       <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
       <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"></code>
       <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-      <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg"></code>
       <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+      <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
       <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
     </div>
   </p>

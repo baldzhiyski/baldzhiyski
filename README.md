@@ -13,7 +13,7 @@
   <h2 align="center">GitHub Stats 📊</h2>
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=baldzhiyski&hide=stars&show_icons=true&theme=dracula&line_height=20"
+    <img src="https://github-readme-stats.vercel.app/api?username=baldzhiyski&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
          style="height: 140px; width: 400px;">
    <!-- GitHub Readme Streak Stats -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=baldzhiyski&theme=tokyonight&hide_border=true" 

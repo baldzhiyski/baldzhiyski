@@ -16,7 +16,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=baldzhiyski&hide=stars&show_icons=true&theme=dracula&line_height=20"
          style="height: 140px; width: 400px;">
    <!-- GitHub Readme Streak Stats -->
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=baldzhiyski&theme=dark&background=0D1117&ring=28CAE7&fire=28CAE7&border=666666&sideNums=28CAE7&currStreakLabel=28CAE7" 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=baldzhiyski&theme=tokyonight&hide_border=true" 
 alt="GitHub Readme Streak Stats" align="right" style="height: 160px;">
 
   </p>

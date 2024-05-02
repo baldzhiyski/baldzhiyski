@@ -49,7 +49,7 @@ alt="GitHub Readme Streak Stats" align="right" style="height: 160px;">
 
 ## Hey, I'm Hristo Baldzhiyski! 👋
 
-I'm a passionate Software Engineering student at the University of Stuttgart and SoftUni, navigating the exciting realms of technology. 🌐
+I'm a passionate Software Engineering student at the University of Stuttgart and SoftUni, navigating the exciting realms of technology. I grind every day and learn something new. 🌐
 
 ### Academic Pursuits 📚
 
@@ -57,11 +57,7 @@ Diving deep into the intricacies of Software Engineering, I'm not just coding; I
 
 ### The Journey 💻
 
-Every line of code I write, every problem I solve, is a step towards realizing my dreams in the tech industry. The journey may be challenging, but it's the challenges that make it worthwhile.
-
-### Aspiring Developer 🚀
-
-Visualizing my future as a developer, I'm committed to honing my skills, exploring new technologies, and embracing the endless possibilities the tech world offers. I will never step out till I reach what I believe I can achieve ! 
+Every line of code I write, every problem I solve, is a step towards realizing my dreams in the tech industry. The journey may be challenging, but it's the challenges that make it worthwhile. I know the odds of becoming the best , but I am sure I will acomplish that.I will never step out till I reach what I believe I can achieve !  
 
 And remember , keep movin forward !
 

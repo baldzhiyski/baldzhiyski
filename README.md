@@ -10,17 +10,18 @@
   </h1>
 </div>
 
-<div style="display: flex;margin-top: 20px;">
+<div style="display: flex; margin-top: 20px;">
     <!-- GitHub Profile Trophy and Most Used Languages -->
-    <div style="flex: 1;justify-content: left" >
+    <div style="flex: 1; margin-right: 20px;">
         <!-- GitHub Profile Trophy -->
         <img src="https://github-profile-trophy.vercel.app/?username=baldzhiyski&theme=nord&margin-w=15&margin-h=15&column=3&row=1&no-frame=true&no-bg=true&width=400&height=300">
         <!-- Most Used Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldzhiyski&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" >
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=baldzhiyski&theme=tokyonight&hide_border=true" alt="GitHub Readme Streak Stats" style="height: 110px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldzhiyski&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
     </div>
     <!-- GitHub Readme Streak Stats -->
-    
+    <div style="flex: 1;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=baldzhiyski&theme=tokyonight&hide_border=true" alt="GitHub Readme Streak Stats" style="height: 150px;">
+    </div>
 </div>
 
 <hr>

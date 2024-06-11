@@ -17,7 +17,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=baldzhiyski&theme=nord&margin-w=15&margin-h=15&column=3&row=1&no-frame=true&no-bg=true&width=400&height=300">
         <!-- Most Used Languages -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldzhiyski&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" >
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=baldzhiyski&theme=tokyonight&hide_border=true" alt="GitHub Readme Streak Stats" style="height: 130px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=baldzhiyski&theme=tokyonight&hide_border=true" alt="GitHub Readme Streak Stats" style="height: 110px;">
     </div>
     <!-- GitHub Readme Streak Stats -->
     

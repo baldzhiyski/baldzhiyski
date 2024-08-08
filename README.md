@@ -45,7 +45,7 @@ alt="GitHub Readme Streak Stats" align="right" style="height: 130px;">
 
 ## Hey, I'm Hristo Baldzhiyski! 👋
 
-I'm a passionate Software Engineering student at the University of Stuttgart and SoftUni, expanding my knowledge every single day and grinding 🌐
+I'm a passionate Software Engineering student at the University of Stuttgart and SoftUni. Currently 20 years old.🌐
 
 ### Academic Pursuits 📚
 

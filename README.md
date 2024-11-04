@@ -47,6 +47,12 @@ alt="GitHub Readme Streak Stats" align="right" style="height: 130px;">
 
 I'm a passionate Software Engineering student at the University of Stuttgart and SoftUni. Currently 20 years old.🌐
 
+## Currently Working On
+- [ ] Developing Shopping App for the university using Spring as a Rest and BackEnd and Next.js for the FrontEnd
+- [ ] Taking part in a Containers and Cloud Course at SoftUni
+
+
+
 ### Academic Pursuits 📚
 
 Diving deep into the intricacies of Software Engineering, I'm not just coding; I'm building a foundation for a future where technology meets innovation.

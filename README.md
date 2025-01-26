@@ -35,51 +35,52 @@ alt="GitHub Readme Streak Stats" align="right" style="height: 130px;">
 
 <h2 align="center">Student Journey 🎓</h2>
 
-<div align="center">
-  <img width="160" height="160" align="left" src="https://github.com/baldzhiyski/baldzhiyski/assets/143875511/017540a4-57c3-4b4e-a2ac-c6065898a68f" alt="Profile Photo">
+<div align="center" style="margin-bottom: 20px;">
+  <img width="160" height="160" align="left" src="https://github.com/baldzhiyski/baldzhiyski/assets/143875511/017540a4-57c3-4b4e-a2ac-c6065898a68f" alt="Profile Photo" style="border-radius: 50%; margin-right: 20px;">
+  <img width="300" height="300" align="right" src="https://roadmap.sh/card/tall/678a62be98c00f7117cc1029?variant=dark" alt="roadmap.sh" style="border-radius: 10px;">
 </div>
 
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
-</div>
+<br>
 
-## Hey, I'm Hristo Baldzhiyski! 👋
+<p align="center">
+  I'm a passionate Software Engineering student at the University of Stuttgart and SoftUni. Currently 20 years old.🌐
+</p>
 
-I'm a passionate Software Engineering student at the University of Stuttgart and SoftUni. Currently 20 years old.🌐
+<br>
+<br>
+<br>
 
-## Currently Working On
-- [ ] Developing Shopping App for the university using Spring as a Rest and BackEnd and Next.js for the FrontEnd
-- [ ] Taking part in a Containers and Cloud Course at SoftUni
+<h4 style="margin-top: 3rem; margin-bottom: 1rem;">Currently Working On</h4>
+<ul>
+  <li>Developing Shopping App for the university using Spring as a Rest and BackEnd and Next.js for the FrontEnd</li>
+  <li>Taking part in a Containers and Cloud Course at SoftUni</li>
+</ul>
 
 
+<h4>Academic Pursuits 📚</h4>
+<p>
+  Diving deep into the intricacies of Software Engineering, I'm not just coding; I'm building a foundation for a future where technology meets innovation.
+</p>
 
-### Academic Pursuits 📚
+<h4>The Journey 💻</h4>
+<p>
+  Every line of code I write, every problem I solve, is a step towards realizing my dreams in the tech industry. The journey may be challenging, but it's the challenges that make it worthwhile. I know the odds of becoming the best, but I am sure I will accomplish that. I will never step out till I reach what I believe I can achieve!  
+</p>
 
-Diving deep into the intricacies of Software Engineering, I'm not just coding; I'm building a foundation for a future where technology meets innovation.
-
-### The Journey 💻
-
-Every line of code I write, every problem I solve, is a step towards realizing my dreams in the tech industry. The journey may be challenging, but it's the challenges that make it worthwhile. I know the odds of becoming the best, but I am sure I will accomplish that. I will never step out till I reach what I believe I can achieve!  
-
-And remember, keep moving forward! Break in the grave!
+<p style="text-align: center;">
+  And remember, keep moving forward! Break in the grave!
+</p>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
 <h2 align="center">Connect with Me 🌐</h2>
 
 <p align="center">
-  <a href="https://instagram.com/baldzhiyski__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baldzhiyski__" height="30" width="40" /></a>
+  <a href="https://instagram.com/baldzhiyski__" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin: 0 10px;">
+  </a>
 </p>

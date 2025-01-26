@@ -30,14 +30,11 @@ alt="GitHub Readme Streak Stats" align="right" style="height: 130px;">
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 </p>
-
-<hr>
-
 <h2 align="center">Student Journey 🎓</h2>
 
 <div align="center" style="margin-bottom: 20px;">
-  <img width="160" height="160" align="left" src="https://github.com/baldzhiyski/baldzhiyski/assets/143875511/017540a4-57c3-4b4e-a2ac-c6065898a68f" alt="Profile Photo" style="border-radius: 50%; margin-right: 20px;">
-  <img width="300" height="300" align="right" src="https://roadmap.sh/card/tall/678a62be98c00f7117cc1029?variant=light"  alt="roadmap.sh" alt="roadmap.sh" style="border-radius: 10px;">
+  <img width="120" height="120" align="left" src="https://github.com/baldzhiyski/baldzhiyski/assets/143875511/017540a4-57c3-4b4e-a2ac-c6065898a68f" alt="Profile Photo" style="border-radius: 50%; margin-right: 20px;">
+  <img width="200" height="200" align="right" src="https://roadmap.sh/card/tall/678a62be98c00f7117cc1029?variant=light"  alt="roadmap.sh" alt="roadmap.sh" style="border-radius: 10px;">
 </div>
 
 <br>
@@ -90,4 +87,8 @@ alt="GitHub Readme Streak Stats" align="right" style="height: 130px;">
    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg"  alt="LinkedIn" height="30" width="40" style="margin: 0 10px;">
   </a>
 </p>
+
+<hr>
+
+
 

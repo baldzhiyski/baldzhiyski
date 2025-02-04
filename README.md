@@ -34,7 +34,10 @@ alt="GitHub Readme Streak Stats" align="right" style="height: 130px;">
 
 <div align="center" style="margin-bottom: 20px;">
   <img width="120" height="120" align="left" src="https://github.com/baldzhiyski/baldzhiyski/assets/143875511/017540a4-57c3-4b4e-a2ac-c6065898a68f" alt="Profile Photo" style="border-radius: 50%; margin-right: 20px;">
-  <img width="200" height="200" align="right" src="https://roadmap.sh/card/tall/678a62be98c00f7117cc1029?variant=light"   alt="roadmap.sh" style="border-radius: 10px;">
+<img width="200" height="200" align="right" 
+     src="https://roadmap.sh/card/tall/678a62be98c00f7117cc1029?variant=light&nocache=123456789"
+     alt="roadmap.sh" style="border-radius: 10px;">
+
 </div>
 
 <br>

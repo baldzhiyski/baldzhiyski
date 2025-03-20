@@ -40,7 +40,7 @@
 
 <hr>
 
-#🎓 Student Journey
+# 🎓 Student Journey
 <div align="center" style="margin-bottom: 20px;">
   <table>
     <tr>

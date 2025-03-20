@@ -73,20 +73,30 @@
   I'm a passionate Software Engineering student at the University of Stuttgart and SoftUni. Currently 20 years old. 🌐
 </p>
 
-### 🔭 Currently taking course On
-- React.js – Building dynamic and interactive user interfaces
-- Node.js – Backend development with JavaScript and APIs
+# 🔭 Currently Working On
 
-### 📚 Academic Pursuits
+## GraphQL
+- Attending a seminar on GraphQL, diving deep into its concepts and applications for efficient data querying and manipulation.
+
+## Full Docker & Kubernetes Course
+- Mastering containerization and orchestration, focusing on Docker for containerizing applications and Kubernetes for managing and scaling them.
+
+## Backend Development at Promotive
+- Contributing as a Junior Backend Developer, gaining hands-on experience with backend architecture, APIs, and server-side technologies.
+
+## AI Tool Development
+- Collaborating on building an AI tool as part of a university course, exploring machine learning models and their applications in real-world solutions.
+
+# 📚 Academic Pursuits
 Diving deep into the intricacies of Software Engineering, I'm not just coding; I'm building a foundation for a future where technology meets innovation.
 
-### 💻 The Journey
+# 💻 The Journey
 Every line of code I write, every problem I solve, is a step towards realizing my dreams in the tech industry. The journey may be challenging, but it's the challenges that make it worthwhile. I believe in my potential and will push through until I achieve my goals.  
 **And remember: Keep moving forward and break through all obstacles!**
 
 <hr>
 
-## 🌐 Connect with Me
+# 🌐 Connect with Me
 <div align="center">
   <!-- Instagram -->
   <a href="https://instagram.com/baldzhiyski__" target="_blank">
@@ -103,7 +113,7 @@ Every line of code I write, every problem I solve, is a step towards realizing m
 
 <hr>
 
-## 🐍 GitHub Contribution Animation
+# 🐍 GitHub Contribution Animation
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">

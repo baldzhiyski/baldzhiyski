@@ -12,14 +12,14 @@
 
 <hr>
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=baldzhiyski&theme=nord&margin-w=15&margin-h=15&column=3&row=1&no-frame=true&no-bg=true&width=400&height=300" alt="Trophies" style="max-width:100%; height:auto;">
 </div>
 
 <hr>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baldzhiyski&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" style="max-width:100%; height:auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldzhiyski&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width:100%; height:auto;">
@@ -27,7 +27,7 @@
 
 <hr>
 
-## ⚙️ Languages and Tools
+# ⚙️ Languages and Tools
 <div align="center">
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring"></code>
@@ -40,7 +40,7 @@
 
 <hr>
 
-## 🎓 Student Journey
+#🎓 Student Journey
 <div align="center" style="margin-bottom: 20px;">
   <table>
     <tr>

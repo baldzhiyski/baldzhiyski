@@ -75,8 +75,18 @@
 
 # 🔭 Currently Working On
 
-## GraphQL
-- Attending a seminar on GraphQL, diving deep into its concepts and applications for efficient data querying and manipulation.
+
+## Node4J and GraphQL Seminar  
+- Exploring modern data access paradigms using **Neo4j**, a graph database, and **GraphQL** for efficient, flexible API development. Focus on real-world use cases and integration in web applications.
+
+##  Programming Paradigms  
+- A theoretical and practical overview of different programming paradigms including **imperative**, **object-oriented**, **functional**, and **logical programming**, emphasizing how each paradigm solves problems differently.
+
+##  HMI (Human-Machine Interaction)  
+- Study of user interface design, usability principles, and the interaction between humans and computer systems. Focus on building intuitive, accessible, and user-centered software.
+
+##  Modellierung (Modeling)  
+- Covers techniques and tools for **model-based system design**, including **UML**, **ER diagrams**, and **process modeling**. Emphasis on abstraction and communication in software engineering.
 
 ## Full Docker & Kubernetes Course
 - Mastering containerization and orchestration, focusing on Docker for containerizing applications and Kubernetes for managing and scaling them.

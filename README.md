@@ -85,4 +85,4 @@
 ---
 
 
-<p align="center"><i>Keep moving forward and break through all obstacles.</i> ✨</p>
+<p align="center"><i>Job's not finished.</i> </p>

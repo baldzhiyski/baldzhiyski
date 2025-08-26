@@ -1,133 +1,88 @@
-<div align="center">
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=baldzhiyski&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" style="max-width:100%; height:auto;">
-
-  <!-- Animated Typing SVG -->
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=A+Developer+from+Stuttgart;+Chase+it+till+the+end!" alt="Typing SVG" style="max-width:100%; height:auto;" />
-    </a>
-  </h1>
-</div>
-
-<hr>
-
-# 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baldzhiyski&theme=nord&margin-w=15&margin-h=15&column=3&row=1&no-frame=true&no-bg=true&width=400&height=300" alt="Trophies" style="max-width:100%; height:auto;">
-</div>
-
-<hr>
-
-# 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baldzhiyski&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" style="max-width:100%; height:auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldzhiyski&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width:100%; height:auto;">
-</div>
-
-<hr>
-
-# ⚙️ Languages and Tools
-<div align="center">
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap"></code>
-</div>
-
-<hr>
-
-# 🎓 Student Journey
-<div align="center" style="margin-bottom: 20px;">
-  <table>
-    <tr>
-      <td style="padding: 10px;">
-        <!-- Profile Image -->
-        <img 
-          width="120" 
-          height="120" 
-          src="https://github.com/baldzhiyski/baldzhiyski/assets/143875511/017540a4-57c3-4b4e-a2ac-c6065898a68f" 
-          alt="Profile Photo" 
-          style="border-radius: 50%; border: 3px solid #0e75b6;"
-        />
-      </td>
-      <td style="padding: 10px;">
-        <!-- Roadmap Card -->
-        <img 
-          width="200" 
-          height="200" 
-          src="https://roadmap.sh/card/tall/678a62be98c00f7117cc1029?variant=light&nocache=12345678989" 
-          alt="Roadmap" 
-          style="border-radius: 15px; border: 3px solid #0e75b6;"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
+<!-- Header -->
 <p align="center">
-  I'm a passionate Software Engineering student at the University of Stuttgart and SoftUni. Currently 20 years old. 🌐
+  <a href="https://git.io/typing-svg">
+    <img alt="Headline"
+      src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&center=true&vCenter=true&width=980&height=60&duration=3200&lines=Hristo+Baldzhiyski+—+Software+Engineer;Java+Spring+%7C+React+%7C+LangGraph+%7C+CrewAI;Docker+%7C+Kubernetes+%7C+PostgreSQL+%7C+MongoDB+%7C+Neo4j;Exploring+Automotive+(C%2B%2B)+%7C+GenAI+%7C+LLMs" />
+  </a>
 </p>
 
-# 🔭 Currently Working On
-
-
-## Node4J and GraphQL Seminar  
-- Exploring modern data access paradigms using **Neo4j**, a graph database, and **GraphQL** for efficient, flexible API development. Focus on real-world use cases and integration in web applications.
-
-##  Programming Paradigms  
-- A theoretical and practical overview of different programming paradigms including **imperative**, **object-oriented**, **functional**, and **logical programming**, emphasizing how each paradigm solves problems differently.
-
-##  HMI (Human-Machine Interaction)  
-- Study of user interface design, usability principles, and the interaction between humans and computer systems. Focus on building intuitive, accessible, and user-centered software.
-
-##  Modellierung (Modeling)  
-- Covers techniques and tools for **model-based system design**, including **UML**, **ER diagrams**, and **process modeling**. Emphasis on abstraction and communication in software engineering.
-
-## Full Docker & Kubernetes Course
-- Mastering containerization and orchestration, focusing on Docker for containerizing applications and Kubernetes for managing and scaling them.
-
-## Backend Development at Promotive
-- Contributing as a Junior Backend Developer, gaining hands-on experience with backend architecture, APIs, and server-side technologies.
-
-## AI Tool Development
-- Collaborating on building an AI tool as part of a university course, exploring machine learning models and their applications in real-world solutions.
-
-# 📚 Academic Pursuits
-Diving deep into the intricacies of Software Engineering, I'm not just coding; I'm building a foundation for a future where technology meets innovation.
-
-# 💻 The Journey
-Every line of code I write, every problem I solve, is a step towards realizing my dreams in the tech industry. The journey may be challenging, but it's the challenges that make it worthwhile. I believe in my potential and will push through until I achieve my goals.  
-**And remember: Keep moving forward and break through all obstacles!**
-
-<hr>
-
-# 🌐 Connect with Me
-<div align="center">
-  <!-- Instagram -->
-  <a href="https://instagram.com/baldzhiyski__" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin: 0 10px;">
+<p align="center">
+  <a href="https://github.com/baldzhiyski?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/baldzhiyski?style=for-the-badge">
   </a>
-  <!-- LinkedIn -->
- <a href="https://www.linkedin.com/in/hristo-baldzhiyski-420b3232a/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
-       alt="LinkedIn" height="40" width="40" style="margin: 0 10px;">
-</a>
+  <a href="https://github.com/baldzhiyski">
+    <img alt="Stars" src="https://img.shields.io/github/stars/baldzhiyski?style=for-the-badge">
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=baldzhiyski&style=for-the-badge&color=0e75b6">
+</p>
+
+---
+
+## 👋 About
+- 🎓 Software Engineering @ **University of Stuttgart** & **SoftUni**  
+- 💼 Junior Backend Developer @ **Promotive**  
+- 📍 Stuttgart, Germany  
+
+---
+
+## 🧰 Core Stack
+<p align="center">
+  <img alt="Java"       height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img alt="Spring"     height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+  <img alt="React"      height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Docker"     height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img alt="Kubernetes" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
+  <img alt="PostgreSQL" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img alt="MongoDB"    height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  <img alt="Neo4j"      height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" />
+  <img alt="Redis"      height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
+  <img alt="GraphQL"    height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
+</p>
+
+<p align="center">
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-Agents-1f6feb?style=flat-square" />
+  <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-Multi--Agent-1f6feb?style=flat-square" />
+  <img alt="GenAI" src="https://img.shields.io/badge/GenAI-LLMs%20%7C%20RAG%20%7C%20Tooling-0ea5e9?style=flat-square" />
+</p>
+
+---
+
+## 🎯 Focus
+- **Agents & Orchestration:** LangGraph & CrewAI for production-grade agent systems  
+- **Automotive Software (early stage):** learning C++ basics and tooling; exploring data flows around CAN/ECU ecosystems  
+- **AI/LLMs:** GenAI apps, RAG pipelines, evaluation, and responsible rollout
+
+---
+## 📊 Stats
+<!-- Profile details (clean overview card) -->
+<p align="center">
+  <img alt="Profile details"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baldzhiyski&theme=tokyonight" />
+</p>
+
+<!-- Main stats + Top languages -->
+<p align="center">
+  <img height="165" alt="GitHub Stats"
+       src="https://github-readme-stats.vercel.app/api?username=baldzhiyski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" />
+  <img height="165" alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldzhiyski&layout=compact&theme=tokyonight&langs_count=8&hide=css,scss,html&hide_border=true" />
+</p>
 
 
-</div>
+## 🌐 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/hristo-baldzhiyski-420b3232a/">
+    <img alt="LinkedIn" height="32" width="32"
+         src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/baldzhiyski__">
+    <img alt="Instagram" height="32" width="32"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg">
+  </a>
+</p>
 
-<hr>
+---
 
-# 🐍 GitHub Contribution Animation
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="max-width:100%; height:auto;">
-  </picture>
-</div>
+
+<p align="center"><i>Keep moving forward and break through all obstacles.</i> ✨</p>

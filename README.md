@@ -26,24 +26,35 @@
 ---
 
 ## 🧰 Core Stack
+<!-- Core languages & frameworks -->
 <p align="center">
   <img alt="Java"       height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img alt="Spring"     height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+  <img alt="Python"     height="38" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+  <img alt="FastAPI"    height="38" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" />
+  <img alt="PostgreSQL" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img alt="MongoDB"    height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
   <img alt="React"      height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img alt="Docker"     height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img alt="Kubernetes" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
-  <img alt="PostgreSQL" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  <img alt="MongoDB"    height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  <img alt="Neo4j"      height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" />
-  <img alt="Redis"      height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
-  <img alt="GraphQL"    height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
 </p>
 
+<!-- Protocols & messaging -->
+<p align="center">
+  <img alt="gRPC"        src="https://img.shields.io/badge/gRPC-1f6feb?style=flat-square&logo=grpc&logoColor=white" />
+  <img alt="HTTP / REST" src="https://img.shields.io/badge/HTTP%20%2F%20REST-0ea5e9?style=flat-square&logo=openapiinitiative&logoColor=white" />
+  <img alt="WebSockets"  src="https://img.shields.io/badge/WebSockets-0F9D58?style=flat-square" />
+  <img alt="RabbitMQ"    src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+</p>
+
+<!-- AI / agents (your originals) -->
 <p align="center">
   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-Agents-1f6feb?style=flat-square" />
-  <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-Multi--Agent-1f6feb?style=flat-square" />
-  <img alt="GenAI" src="https://img.shields.io/badge/GenAI-LLMs%20%7C%20RAG%20%7C%20Tooling-0ea5e9?style=flat-square" />
+  <img alt="CrewAI"    src="https://img.shields.io/badge/CrewAI-Multi--Agent-1f6feb?style=flat-square" />
+  <img alt="GenAI"     src="https://img.shields.io/badge/GenAI-LLMs%20%7C%20RAG%20%7C%20Tooling-0ea5e9?style=flat-square" />
 </p>
+
+
 
 ---
 

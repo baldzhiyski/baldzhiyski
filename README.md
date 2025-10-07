@@ -58,10 +58,20 @@
 
 ---
 
-## 🎯 Focus
-- **Agents & Orchestration:** LangGraph & CrewAI for production-grade agent systems  
-- **Automotive Software (early stage):** learning C++ basics and tooling; exploring data flows around CAN/ECU ecosystems  
-- **AI/LLMs:** GenAI apps, RAG pipelines, evaluation, and responsible rollout
+# 🎯 Focus
+
+- **Software Architecture & Distributed Systems:**  
+  Building scalable backend systems using **Java**, **Spring Boot**, and modern **cloud-native** design patterns.
+
+- **AI Orchestration & Agentic Systems:**  
+  Designing and implementing intelligent agent workflows with frameworks like **LangGraph**, **CrewAI** and others for production-grade AI pipelines.
+
+- **LLMs & Knowledge Retrieval:**  
+  Developing **GenAI** applications, **RAG** pipelines, and exploring emerging interoperability standards such as **MCP** and **A2A protocol**.
+
+- **Machine Learning & Deep Learning:**  
+  Deep diving into model design, training, evaluation, and **responsible AI** deployment across real-world use cases.
+
 
 ---
 ## 📊 Stats

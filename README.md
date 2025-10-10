@@ -51,7 +51,7 @@
 <p align="center">
   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-Agents-1f6feb?style=flat-square" />
   <img alt="CrewAI"    src="https://img.shields.io/badge/CrewAI-Multi--Agent-1f6feb?style=flat-square" />
-  <img alt="GenAI"     src="https://img.shields.io/badge/GenAI-LLMs%20%7C%20RAG%20%7C%20Tooling-0ea5e9?style=flat-square" />
+  <img alt="GenAI"     src="https://img.shields.io/badge/GenAI-LLMs%20%7C%20MCP%20%7C%20A2A%20%7C%20RAG%20%7C%20Tooling-0ea5e9?style=flat-square" />
 </p>
 
 

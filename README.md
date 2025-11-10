@@ -1,70 +1,95 @@
-<!-- Header -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img alt="Headline"
-      src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&center=true&vCenter=true&width=980&height=60&duration=3200&lines=Hristo+Baldzhiyski+—+Software+Engineer;Java+Spring+%7C+React+%7C+LangGraph+%7C+CrewAI;Docker+%7C+Kubernetes+%7C+PostgreSQL+%7C+MongoDB+%7C+Neo4j;Exploring+Automotive+(C%2B%2B)+%7C+GenAI+%7C+LLMs" />
+      src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&center=true&vCenter=true&width=1000&height=60&duration=3200&lines=Hristo+Baldzhiyski+—+Software+Engineer;Java+Spring+%7C+React+%7C+LangGraph+%7C+CrewAI;Docker+%7C+Kubernetes+%7C+PostgreSQL+%7C+MongoDB+%7C+Neo4j;Exploring+Automotive+(C%2B%2B)+%7C+GenAI+%7C+LLMs" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/baldzhiyski?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/baldzhiyski?style=for-the-badge">
+    <img alt="Followers" src="https://img.shields.io/github/followers/baldzhiyski?style=for-the-badge&color=blueviolet">
   </a>
   <a href="https://github.com/baldzhiyski">
-    <img alt="Stars" src="https://img.shields.io/github/stars/baldzhiyski?style=for-the-badge">
+    <img alt="Stars" src="https://img.shields.io/github/stars/baldzhiyski?style=for-the-badge&color=0e75b6">
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=baldzhiyski&style=for-the-badge&color=0e75b6">
 </p>
 
 ---
 
-## 👋 About
+## 👋 About Me
 - 🎓 Software Engineering @ **University of Stuttgart** & **SoftUni**  
 - 💼 Junior Backend Developer @ **Promotive**  
-- 📍 Stuttgart, Germany  
+- 📍 Based in **Stuttgart, Germany**  
+- 🚀 Passionate about **AI orchestration**, **distributed systems**, and **automotive software innovation**  
 
 ---
 
-## 🧰 Core Stack
-<!-- Core languages & frameworks -->
+## ⚙️ Languages & Frameworks
 <p align="center">
-  <img alt="Java"       height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img alt="Spring"     height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
-  <img alt="Python"     height="38" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-  <img alt="FastAPI"    height="38" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" />
-  <img alt="PostgreSQL" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  <img alt="MongoDB"    height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  <img alt="React"      height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="Docker"     height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img alt="Kubernetes" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++" />
 </p>
-
-<!-- Protocols & messaging -->
-<p align="center">
-  <img alt="gRPC"        src="https://img.shields.io/badge/gRPC-1f6feb?style=flat-square&logo=grpc&logoColor=white" />
-  <img alt="HTTP / REST" src="https://img.shields.io/badge/HTTP%20%2F%20REST-0ea5e9?style=flat-square&logo=openapiinitiative&logoColor=white" />
-  <img alt="WebSockets"  src="https://img.shields.io/badge/WebSockets-0F9D58?style=flat-square" />
-  <img alt="RabbitMQ"    src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-</p>
-
-<!-- AI / agents (your originals) -->
-<p align="center">
-  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-Agents-1f6feb?style=flat-square" />
-  <img alt="CrewAI"    src="https://img.shields.io/badge/CrewAI-Multi--Agent-1f6feb?style=flat-square" />
-  <img alt="GenAI"     src="https://img.shields.io/badge/GenAI-LLMs%20%7C%20MCP%20%7C%20A2A%20%7C%20RAG%20%7C%20Tooling-0ea5e9?style=flat-square" />
-</p>
-
-
 
 ---
 
-# 🎯 Focus
+## 🧠 AI & Data Science
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="42" alt="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="42" alt="Matplotlib" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GenAI-%20LLMs%20|%20RAG%20|%20Tooling-0ea5e9?style=flat-square" alt="GenAI" />
+  <img src="https://img.shields.io/badge/LangGraph-Graph--Agents-1f6feb?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-Multi--Agent--Orchestration-1f6feb?style=flat-square" alt="CrewAI" />
+</p>
+
+---
+
+## 🗄️ Databases & Data Systems
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="42" alt="Elasticsearch" />
+</p>
+
+---
+
+## 🔗 Communication & Messaging
+<p align="center">
+  <img src="https://img.shields.io/badge/gRPC-1f6feb?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/REST-0ea5e9?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/WebSockets-0F9D58?style=for-the-badge" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" alt="Kubernetes" />
+</p>
+
+---
+
+## 🎯 Focus
 
 - **Software Architecture & Distributed Systems:**  
   Building scalable backend systems using **Java**, **Spring Boot**, and modern **cloud-native** design patterns.
 
 - **AI Orchestration & Agentic Systems:**  
-  Designing and implementing intelligent agent workflows with frameworks like **LangGraph**, **CrewAI** and others for production-grade AI pipelines.
+  Designing and implementing intelligent agent workflows with frameworks like **LangGraph**, **CrewAI**, and others for production-grade AI pipelines.
 
 - **LLMs & Knowledge Retrieval:**  
   Developing **GenAI** applications, **RAG** pipelines, and exploring emerging interoperability standards such as **MCP** and **A2A protocol**.
@@ -72,16 +97,21 @@
 - **Machine Learning & Deep Learning:**  
   Deep diving into model design, training, evaluation, and **responsible AI** deployment across real-world use cases.
 
+- **C++ & Embedded Systems for Automotive:**  
+  Exploring **Embedded C/C++** and **AUTOSAR-based** architectures for intelligent vehicle systems. Currently diving into **automotive-grade software development**, focusing on **real-time systems**, **CAN communication**, and **ECU programming**.
+
+<p align="center">
+  <em>My long-term vision is to fuse intelligent systems with real-time embedded architectures to power the next generation of connected, autonomous vehicles.</em>
+</p>
 
 ---
-## 📊 Stats
-<!-- Profile details (clean overview card) -->
+
+## 📊 GitHub Stats
 <p align="center">
   <img alt="Profile details"
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baldzhiyski&theme=tokyonight" />
 </p>
 
-<!-- Main stats + Top languages -->
 <p align="center">
   <img height="165" alt="GitHub Stats"
        src="https://github-readme-stats.vercel.app/api?username=baldzhiyski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" />
@@ -89,8 +119,9 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldzhiyski&layout=compact&theme=tokyonight&langs_count=8&hide=css,scss,html&hide_border=true" />
 </p>
 
+---
 
-## 🌐 Connect
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/hristo-baldzhiyski-420b3232a/">
     <img alt="LinkedIn" height="32" width="32"
@@ -105,5 +136,7 @@
 
 ---
 
+<p align="center">
+  <i>“Job's not finished.”</i>
+</p>
 
-<p align="center"><i>Job's not finished.</i> </p>

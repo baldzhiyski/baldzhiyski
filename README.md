@@ -107,19 +107,37 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img alt="Profile details"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baldzhiyski&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img height="165" alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=baldzhiyski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" />
-  <img height="165" alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldzhiyski&layout=compact&theme=tokyonight&langs_count=8&hide=css,scss,html&hide_border=true" />
-</p>
+<div align="center">
 
----
+  <!-- Row: Two small cards -->
+  <div>
+    <img
+      width="48%"
+      alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=baldzhiyski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"
+    />
+    <img
+      width="48%"
+      alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldzhiyski&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&langs_count=8&hide=css,scss,html&hide_border=true"
+    />
+  </div>
+
+  <br/>
+
+  <!-- Row: Large summary card -->
+  <img
+    width="90%"
+    alt="GitHub Profile Summary"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baldzhiyski&theme=tokyonight"
+  />
+
+</div>
+
+
+
+
 
 ## 🌐 Connect with Me
 <p align="center">

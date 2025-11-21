@@ -117,11 +117,12 @@
       alt="GitHub Stats"
       src="https://github-readme-stats.vercel.app/api?username=baldzhiyski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"
     />
-    <img
-      width="48%"
-      alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldzhiyski&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&langs_count=8&hide=css,scss,html&hide_border=true"
-    />
+<img
+  width="48%"
+  alt="Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldzhiyski&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&langs_count=4&hide=css,scss,html&hide_border=true"
+/>
+
   </div>
 
   <br/>

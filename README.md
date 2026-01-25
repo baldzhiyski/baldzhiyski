@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img alt="Headline"
-      src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&center=true&vCenter=true&width=1000&height=60&duration=3200&lines=Hristo+Baldzhiyski+—+Software+Engineer;Java+Spring+%7C+React+%7C+LangGraph+%7C+CrewAI;Docker+%7C+Kubernetes+%7C+PostgreSQL+%7C+MongoDB+%7C+Neo4j;Exploring+Automotive+(C%2B%2B)+%7C+GenAI+%7C+LLMs" />
+src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&center=true&vCenter=true&width=1000&height=60&duration=3500&lines=Hristo+Baldzhiyski;Driven+by+curiosity;Guided+by+purpose;Engineering+the+future;Becoming+my+highest+self"
   </a>
 </p>
 

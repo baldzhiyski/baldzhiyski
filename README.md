@@ -25,7 +25,7 @@
 class HristoBaldzhiyski:
     def __init__(self):
         self.role        = "AI Engineer @ ETAS (Bosch Group)"
-        self.location    = "Stuttgart, Germany"
+        self.location    = "Stuttgart, Germany / Plovdiv, Bulgaria"
         self.education   = ["University of Stuttgart", "SoftUni"]
         self.focus       = ["LLM systems", "Agent orchestration", "Distributed backends"]
         self.mindset     = "Reliable, production-grade AI — research meets real systems"
